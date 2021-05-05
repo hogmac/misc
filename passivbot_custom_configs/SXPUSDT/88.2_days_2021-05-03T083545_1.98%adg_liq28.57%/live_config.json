@@ -1,0 +1,22 @@
+{
+    "config_name": "binance_sxp",
+    "logging_level": 0,
+    "ddown_factor": 1.726640251699191,
+    "qty_pct": 0.27664158689710033,
+    "leverage": 4.0,
+    "n_entry_orders": 20,
+    "n_close_orders": 9,
+    "grid_spacing": 0.0072800746424970956,
+    "pos_margin_grid_coeff": 186.13382771944782,
+    "volatility_grid_coeff": 611.7163587505433,
+    "volatility_qty_coeff": -1885.063753347517,
+    "min_markup": 0.008229311046155522,
+    "markup_range": 0.009539700866196592,
+    "do_long": true,
+    "do_shrt": true,
+    "ema_span": 695.174495692788,
+    "ema_spread": 0.002501988410111757,
+    "stop_loss_liq_diff": 0.15,
+    "stop_loss_pos_pct": 0.09072878705635981,
+    "symbol": "SXPUSDT"
+}
